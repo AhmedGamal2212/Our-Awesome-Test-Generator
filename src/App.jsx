@@ -1,6 +1,5 @@
 function App() {
-
-    return <></>;
+    return <div data-testid='app'></div>;
 }
 
 export default App;
